@@ -1,0 +1,190 @@
+Acceleraters
+Advanced materials & fabrication techniques
+Aerosols
+Aircraft propulsion/high lift /strucutre
+Animal
+Anomaly resolution
+Asteroid
+astronaut
+Astronomy 
+Astrophysics
+Atmosphere
+Atmospheric science
+Atmospheric science
+Aurora
+Bing Bang
+Black Hole
+Boundary layer
+Carbon
+Celestial
+CERN/CMS/supercollider/partical
+Circum Stellar
+Climate & Modeling
+Comet
+Command center
+Command contruction/verification
+Command systems
+Command systems
+Constellations
+Control systems
+Controls
+Controls & recycle
+Cosmology
+CubeSat
+Cybersecurity
+Dark Matter
+Dark Matter
+Data processing/support
+Data storage  & retrieval
+Deep Space
+Desent
+Detection of explosieve devices
+Detectors
+Detectors/Sensors
+Displays
+Displays
+Drone/UAVs/UAS
+Dwarf
+Earth
+Earth Science
+Eclipse
+electric vechiles
+electroagnetic fields
+Electromagnetic radiation
+Energy
+Entry
+Entry Descent & Landing
+Europa
+Exobiology
+Exobiology
+Exoplanets
+Exoplanets
+extrasolar
+Flows
+Flyby
+Food secuirty
+Formation
+Fundamental physics
+Galaxy
+Galaxy/star/syste formation/Supernova
+Geology
+Geosynchronous
+gravity
+Ground station
+Ground stations
+guidance control
+Harvesting local resources/utilization
+Heat tranfer and storage
+Heavy lift Transport
+Historical Archives
+Hubble
+Human system Planning & interface
+Hypergalaxy
+Hypersonic
+Hypersonic vechiles
+ICE
+Innovations
+Integration & testing
+interstellar
+Ionosphere
+Jupiter
+Lander
+Lander and rover design
+Landing
+launch control
+Leadership
+Lunar
+Lunar
+Magnetic field
+magnetic field
+Manufacturing in space
+Mars
+Mars
+Mathematics
+Meteor
+Meteorites
+Metwrk connectivity stations/ops
+Micro/alternative Gravity effects
+Micro-Gravity effects
+Mission design and navigation
+Mobility systems
+Moon
+Nanosat
+Navigation
+Nebula
+Nuclear
+Operation Centers
+Optical Imaging
+Orbit
+orbit transfers
+outer space
+Particle Analyer
+Phobos
+Planetary atmosphere
+Planetary formation
+Planetary Geology
+Planetary Science
+Planets
+Pluto
+propulsion
+Psychology
+Quantum
+Quasar
+Radiation
+Radiation exposure
+radio telescope
+Robotic arms
+Robotic systems
+Robotics & robotic systems/ systems
+Rockets
+Rover
+Rovers
+Sat.Microsat.nannosat
+Satellite
+Satellite maintenance & tasking
+Saturn
+Science center interface and coordination
+Science data processing
+Sensors
+Shuttle
+Singularity
+Solar
+solar sailing
+Space
+Space colony
+Space craft
+Space Exploration
+space flight
+space probes
+Space Situation Awareness
+Space station
+Space suits
+Space technology
+space weather
+Special suits
+Spectroscopy
+Star
+STEM
+Sun
+Sunspot
+SuperGiant
+Supernova
+System Autonomy
+System Autonomy
+telecopes
+Telescope
+Thermodynamics
+Thrusters
+Thrusts trajectory
+Trace gas Monitoring & tracking
+Triton
+Turbulence
+Universe
+Universe formation
+Utility Maximization
+Venus
+Water cycles
+Weather systems & Models
+White Dwarf
+Wind Tunnels/turbines
+Workforce
